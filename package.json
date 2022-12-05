@@ -1,6 +1,6 @@
 {
   "name": "arco-marterial-test-page",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "",
   "author": "my9074 <313231068@qq.com>",
   "main": "./lib/index.js",
