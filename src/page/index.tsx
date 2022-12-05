@@ -36,6 +36,7 @@ function SidebarDemo() {
           <MenuItem key="11">栅格</MenuItem>
           <MenuItem key="12">分隔符</MenuItem>
           <MenuItem key="13">布局</MenuItem>
+          <MenuItem key="13">布局version2</MenuItem>
         </SubMenu>
       </Menu>
     </div>
