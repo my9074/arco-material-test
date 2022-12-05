@@ -1,0 +1,23 @@
+{
+  "name": "arco-marterial-test-page",
+  "title": "测试页面物料",
+  "description": "",
+  "type": "react-page",
+  "category": [],
+  "group": 0,
+  "homepage": "",
+  "repository": "",
+  "author": "my9074",
+  "screenshot": "",
+  "package": {
+    "name": "arco-marterial-test-page",
+    "version": "latest",
+    "type": "npm",
+    "registry": "",
+    "peerDependencies": [
+      "react",
+      "react-dom",
+      "@arco-design/web-react"
+    ]
+  }
+}
